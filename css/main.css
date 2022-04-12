@@ -5,6 +5,13 @@
   background-position: left calc(50%) top 150px;
 }
 
+.second-body {
+  background-image: url(../img/money.png);
+  background-repeat: no-repeat;
+  background-size: 800px 700px;
+  background-position: left calc(50%) top 80px;
+}
+
 a {
   display: block;
   font-size: 24px;
