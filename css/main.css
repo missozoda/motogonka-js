@@ -1,0 +1,6 @@
+body {
+  background-image: url(../img/motogonka.jpg);
+  background-repeat: no-repeat;
+  background-size: 1200px 700px;
+  background-position: left calc(50%) top 150px;
+}
